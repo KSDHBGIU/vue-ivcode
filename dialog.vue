@@ -35,6 +35,8 @@ export default {
       })
     },
     initData() {
+      // 再增加动态传值Style !!!
+      
       let _self = this;
       _self.$bus.$on("ivDialogShow", function (ret) {
         _self.AddDialogList(ret);
