@@ -1,3 +1,5 @@
 npm install postcss-pxtorem -D
 
 npm i element-ui -S
+
+npm install echarts -S
